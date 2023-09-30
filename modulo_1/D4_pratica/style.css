@@ -127,6 +127,7 @@ h6 {
   margin-left: 10px;
   margin-bottom: 20px;
   font-size: 12px;
+  min-width: 200px;
 }
 
 .extra_cont span{
@@ -136,6 +137,24 @@ h6 {
 
 .extra_prod{
   margin-bottom: 15px;
+}
+
+.extra_cont div{
+  position: relative;
+}
+
+.new_first{
+  width: 12%;
+  position: absolute;
+  left: 30%;
+  top: 80%
+}
+
+.new_fourth{
+  width: 12%;
+  position: absolute;
+  left: 75%;
+  top: 80%;
 }
 
 #logo_footer {
