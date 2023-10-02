@@ -24,7 +24,6 @@ main {
   background-color: #485769;
   color: white;
   font-size: 9px;
-  padding: 5px 15px 5px 15px;
 }
 
 .bg_t2 a {
@@ -38,7 +37,7 @@ main {
 
 .menu_item {
   display: inline-block;
-  margin: 0 10px 0 0;
+  margin: 5px -8px 5px 15px;
 }
 
 #gift_card {
@@ -71,10 +70,10 @@ h6 {
 
 .img_t_a {
   box-shadow: 4px 6px 10px #888888a6;
-  width: 22%;
-  margin: 0 20px 0 0;
+  width: 19%;
+  margin: 0 1.6% 10px 3.1%;
   border-radius: 10px;
-  aspect-ratio: 1/1.2;
+  aspect-ratio: 1/1.1;
   object-fit: cover;
 }
 
@@ -85,8 +84,6 @@ h6 {
 
 .section_multi {
   background-color: white;
-  padding: 0 0 15px 15px;
-  
 }
 
 .section {
