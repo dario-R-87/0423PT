@@ -123,34 +123,34 @@ h6 {
   padding: 10px 0 20px 30px;
   background-color: white;
   display: inline-block;
-  width: 21%;
+  width: 19%;
   margin-left: 10px;
   margin-bottom: 20px;
   font-size: 12px;
   min-width: 200px;
 }
 
-.extra_cont span{
-  text-align: center; 
-  padding-left: 20%;
+.extra_cont span {
+  text-align: center;
+  padding-left: 18%;
 }
 
-.extra_prod{
+.extra_prod {
   margin-bottom: 15px;
 }
 
-.extra_cont div{
+.extra_cont div {
   position: relative;
 }
 
-.new_first{
+.new_first {
   width: 12%;
   position: absolute;
   left: 30%;
-  top: 80%
+  top: 80%;
 }
 
-.new_fourth{
+.new_fourth {
   width: 12%;
   position: absolute;
   left: 75%;
